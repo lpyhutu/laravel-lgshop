@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin:0px;
+	padding:0px;
+}
+
+#content{  width:998px; clear:both; border:1px solid #254B62; }
+ #content p{ line-height:2em; text-indent:2em; margin:20px; font-size:13px;}
+  #content h3{ text-align:center; margin-top:20px; color:#254B62;}
+#footer {
+	clear:both;
+	width:1000px;
+	text-align:center;
+	margin-top:20px;
+	height:40px;
+	padding-top:5px;
+	background-color:#254B62;
+}
+
+#footer p {
+color:#FFFFFF;}

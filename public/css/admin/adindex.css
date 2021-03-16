@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+body {
+	margin: 0 auto;
+	width: 900px;
+	font: 12px/1.6 "宋体";
+}
+
+ul li {
+	padding-bottom: 4px;
+	padding-top: 5px;
+}
+
+input {
+	margin-left: 10px;
+}
+
+#header {
+	margin: 30px 0px 10px 0px;
+}
+
+#header img {
+	vertical-align: middle;
+	padding-top: -10px;
+}
+
+#header h1 {
+	color: #254B62;
+	font-size: 24px;
+	font-family: "黑体";
+}
+
+#left {
+	background-color: #254B62;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+}
+
+#left h3 {
+	background-color: #254B62;
+	text-align: center;
+	color: #ffffff;
+}
+
+#left img {
+	margin: 0px 5px 0px 5px;
+}
+
+#left ul {
+	list-style: none;
+	padding-bottom: 15px;
+	background-color: #476D7C;
+}
+
+#left ul li {
+	background: url(images/houtai3.gif) bottom no-repeat;
+	width: 150px;
+	margin: 5px 10px 0px 30px;
+	text-align: center;
+}
+
+#left ul li a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+#right {
+	float: right;
+	border: 1px solid #999;
+	width: 670px;
+	margin: 10px;
+}
+
+#right table {
+	margin-top: 10px;
+	color: #006699;
+	margin: 0 auto;
+}
+
+#right table tr td table {
+	margin: 0 auto;
+}
+
+#right table tr td table tr td div {
+	text-align: center;
+}
+
+#right table tr td table tr td {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
